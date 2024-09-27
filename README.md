@@ -12,8 +12,8 @@ The research investigates how the transportation of food is affected by climate 
 Analysis leverages the NewsCatcher API  
 ## https://newscatcherapi.com/ to extract news information.
  
-## Research Objectives
-The primary goals of this project are to:
+
+## The primary goals of this project are to:
 
 Assess the impact of climate events: Examine how severe weather or environmental changes disrupt the transportation of food on roads, railroads, and through seaports.
 Analyze news-driven disruptions: Study how significant news reports related to policy changes, climate impacts, or economic shifts influence food security.
